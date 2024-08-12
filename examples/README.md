@@ -27,3 +27,4 @@ If you have questions about this:
 - Join [Blue Fire's Discord](https://discord.gg/5unKpdQD78), we have a #flame channel where you can
  find lots of people to help and get help from.
 - Use the `flame` tag on StackOverflow.
+- Check our extensive documentation,//(ff) // 
